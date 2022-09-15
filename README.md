@@ -1,3 +1,3 @@
 # Chat-Room
 ## Overview
-This is a simple chatroom website incorperating Socket.IO. The user is allowed to both make and create temporary chatrooms. Each chatroom is given a 6 letter code then when given to others, is used to join the chatroom. If there is no one connected to a chatroom it will close the room and discard any messages sent.
+This is a simple chatroom website incorperating Socket.IO
