@@ -1,3 +1,3 @@
 # Chat-Room
 ## Overview
-This is a simple chatroom website incorperating Socket.IO
+This is a simple chatroom website incorporating Socket.IO.
